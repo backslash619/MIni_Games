@@ -17,8 +17,7 @@ Monster(3)::- Dragon
 
 Character::- Player_name 
 
-Ability::- Monster and Character 
-	   DODGE and ATTACK
+Ability::- Monster and Character [DODGE, ATTACK]
 
 Weapon availaible to player is 
 			       Sword, Axe, Bow_and_Arrow
